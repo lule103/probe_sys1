@@ -1,4 +1,4 @@
-3503505937677
+7006832238079
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -99512,6 +99512,13 @@ Varistor VF
 2
 2
 probe_sys1
+ESP32-WROOM-32UE
+2.4 GHz Wi-Fi and Bluetooth module, https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+60
+39
+probe_sys1
 MODULE_RASPBERRY_PI_ZERO_2_W
 
 
@@ -99525,3 +99532,10 @@ RN2483-I_RM095
 0
 47
 47
+probe_sys1
+SIM808
+
+
+0
+68
+68

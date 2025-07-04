@@ -4,4 +4,5 @@
   (lib (name "probe_sys1")(type "KiCad")(uri "${KIPRJMOD}/probe_sys1.kicad_sym")(options "")(descr ""))
   (lib (name "rn")(type "KiCad")(uri "${KIPRJMOD}/RN2483-I_RM095.kicad_sym")(options "")(descr ""))
   (lib (name "rpi")(type "KiCad")(uri "${KIPRJMOD}/RASPBERRY_PI_ZERO_2_W.kicad_sym")(options "")(descr ""))
+  (lib (name "sim")(type "KiCad")(uri "${KIPRJMOD}/SIM808.kicad_sym")(options "")(descr ""))
 )
