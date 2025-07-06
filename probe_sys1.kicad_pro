@@ -625,6 +625,14 @@
     [
       "4bec5ddf-adbf-41fb-a069-c7630bb0044a",
       "Root"
+    ],
+    [
+      "fa14c18c-6705-49bf-970c-de06bc3d39f6",
+      "ESP_SIM808_RN2483"
+    ],
+    [
+      "4443ff8e-3312-400f-b0e3-7a016320b307",
+      "RaspberryPi"
     ]
   ],
   "text_variables": {}
